@@ -19,6 +19,9 @@ import java.util.concurrent.TimeUnit;
 
 import io.reactivex.Observable;
 
+/**
+ * 云村 Fragment
+ */
 public class CloudVillageFragment extends BaseFragment implements OnRefreshListener, OnLoadMoreListener {
 
     private CloudVillageFragmentViewModel mViewModel;

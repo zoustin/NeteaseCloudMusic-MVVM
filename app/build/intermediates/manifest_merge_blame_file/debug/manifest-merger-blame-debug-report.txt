@@ -1,0 +1,235 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.netease.music"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:8:5-77
+13-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:8:22-74
+14    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+14-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:10:5-83
+14-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:10:22-80
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:11:5-80
+15-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:11:22-77
+16    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+16-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:12:5-84
+16-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:12:22-81
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:13:5-81
+17-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:13:22-78
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:14:5-68
+18-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:14:22-65
+19    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+19-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:15:5-75
+19-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:15:22-72
+20    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+20-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:16:5-73
+20-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:16:22-70
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:17:5-76
+21-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:17:22-73
+22    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+22-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:18:5-75
+22-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:18:22-72
+23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+23-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:19:5-75
+23-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:19:22-72
+24    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+24-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:20:5-78
+24-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:20:22-75
+25
+26    <!-- 在 屏幕最顶部显示addview -->
+27    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+27-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:13:5-80
+27-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:13:22-77
+28
+29    <application
+29-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:22:5-73:19
+30        android:name="com.netease.music.App"
+30-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:23:9-45
+31        android:allowBackup="true"
+31-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:24:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.3.1] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:extractNativeLibs="false"
+35        android:icon="@drawable/ic_launcher"
+35-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:25:9-45
+36        android:label="@string/app_name"
+36-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:26:9-41
+37        android:networkSecurityConfig="@xml/network_security_config"
+37-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:27:9-69
+38        android:roundIcon="@drawable/ic_launcher"
+38-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:28:9-50
+39        android:supportsRtl="true"
+39-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:29:9-35
+40        android:theme="@style/AppTheme"
+40-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:30:9-40
+41        android:usesCleartextTraffic="true" >
+41-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:31:9-44
+42        <activity android:name="com.netease.music.MainActivity" />
+42-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:35:9-67
+42-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:35:19-64
+43        <activity android:name="com.netease.music.ui.page.login.PhoneLoginActivity" />
+43-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:37:9-70
+43-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:37:19-67
+44        <activity android:name="com.netease.music.ui.page.login.LoginActivity" />
+44-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:38:9-65
+44-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:38:19-62
+45        <activity android:name="com.netease.music.ui.page.drawer.CloudMusicActivity" />
+45-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:39:9-71
+45-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:39:19-68
+46        <activity android:name="com.netease.music.ui.page.drawer.MessageTabActivity" />
+46-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:40:9-71
+46-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:40:19-68
+47        <activity android:name="com.netease.music.ui.page.search.SearchActivity" />
+47-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:41:9-67
+47-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:41:19-64
+48        <activity android:name="com.netease.music.ui.page.search.SearchResultActivity" />
+48-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:42:9-73
+48-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:42:19-70
+49        <activity android:name="com.netease.music.ui.page.discover.square.detail.SongListDetailActivity" />
+49-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:43:9-91
+49-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:43:19-88
+50        <activity android:name="com.netease.music.ui.page.discover.album.NewAlbumActivity" />
+50-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:44:9-77
+50-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:44:19-74
+51        <activity android:name="com.netease.music.ui.page.discover.daily.DailyRecommendActivity" />
+51-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:45:9-83
+51-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:45:19-80
+52        <activity android:name="com.netease.music.ui.page.discover.radio.RadioActivity" />
+52-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:46:9-74
+52-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:46:19-71
+53        <activity android:name="com.netease.music.ui.page.discover.radio.RadioPayActivity" />
+53-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:47:9-77
+53-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:47:19-74
+54        <activity android:name="com.netease.music.ui.page.audio.MusicPlayerActivity" />
+54-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:48:9-71
+54-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:48:19-68
+55        <activity android:name="com.netease.music.ui.page.discover.square.detail.CommentActivity" />
+55-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:49:9-84
+55-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:49:19-81
+56        <activity android:name="com.netease.music.ui.page.video.VideoDetailActivity" />
+56-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:50:9-71
+56-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:50:19-68
+57        <activity android:name="com.netease.music.ui.page.discover.radio.RadioDetailActivity" />
+57-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:51:9-80
+57-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:51:19-77
+58        <activity android:name="com.netease.music.ui.page.discover.user.UserDetailActivity" />
+58-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:52:9-78
+58-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:52:19-75
+59        <activity android:name="com.netease.music.ui.page.video.mv.MvSortActivity" />
+59-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:53:9-69
+59-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:53:19-66
+60        <activity android:name="com.netease.music.ui.page.search.artist.ArtistSortActivity" />
+60-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:54:9-78
+60-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:54:19-75
+61        <activity android:name="com.netease.music.ui.page.mine.radio.MyRadioActivity" />
+61-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:55:9-72
+61-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:55:19-69
+62        <activity android:name="com.netease.music.ui.page.video.mv.MvDetailActivity" />
+62-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:56:9-71
+62-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:56:19-68
+63        <!-- 闪屏界面作为应用的入口 -->
+64        <activity android:name="com.netease.music.ui.page.SplashActivity" >
+64-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:58:9-64:20
+64-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:58:19-57
+65            <intent-filter>
+65-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:59:13-63:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:60:17-69
+66-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:60:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:62:17-77
+68-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:62:27-74
+69            </intent-filter>
+70        </activity>
+71
+72        <service
+72-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:67:9-70:40
+73            android:name="com.netease.music.service.MusicService"
+73-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:68:13-66
+74            android:enabled="true"
+74-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:69:13-35
+75            android:exported="false" />
+75-->C:\Android\Project\NeteaseCloudMusic-MVVM\app\src\main\AndroidManifest.xml:70:13-37
+76
+77        <provider
+77-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-38:20
+78            android:name="androidx.core.content.FileProvider"
+78-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-62
+79            android:authorities="com.netease.music.fileprovider"
+79-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-64
+80            android:exported="false"
+80-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-37
+81            android:grantUriPermissions="true" >
+81-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-47
+82            <meta-data
+82-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-37:54
+83                android:name="android.support.FILE_PROVIDER_PATHS"
+83-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-67
+84                android:resource="@xml/file_paths" />
+84-->[:architecture] C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:17-51
+85        </provider>
+86
+87        <meta-data
+87-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:16:9-18:36
+88            android:name="android.notch_support"
+88-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:17:13-49
+89            android:value="true" /> <!-- PermissonActivity -->
+89-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:18:13-33
+90        <activity
+90-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:20:9-22:75
+91            android:name="com.lxj.xpopup.util.XPermission$PermissionActivity"
+91-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:21:13-78
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.lxj:xpopup:2.0.8-rc5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\48be8f95455ca45f7eb3b795596a126a\jetified-xpopup-2.0.8-rc5\AndroidManifest.xml:22:13-72
+93        <activity
+93-->[pub.devrel:easypermissions:3.0.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\9617dbec6aa908352eacb45805aa9b15\jetified-easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+94            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+94-->[pub.devrel:easypermissions:3.0.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\9617dbec6aa908352eacb45805aa9b15\jetified-easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+95            android:exported="false"
+95-->[pub.devrel:easypermissions:3.0.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\9617dbec6aa908352eacb45805aa9b15\jetified-easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+96            android:label=""
+96-->[pub.devrel:easypermissions:3.0.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\9617dbec6aa908352eacb45805aa9b15\jetified-easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+97            android:theme="@style/EasyPermissions.Transparent" />
+97-->[pub.devrel:easypermissions:3.0.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\9617dbec6aa908352eacb45805aa9b15\jetified-easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+98
+99        <service
+99-->[androidx.room:room-runtime:2.2.5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+100            android:name="androidx.room.MultiInstanceInvalidationService"
+100-->[androidx.room:room-runtime:2.2.5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+101            android:directBootAware="true"
+101-->[androidx.room:room-runtime:2.2.5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+102            android:exported="false" />
+102-->[androidx.room:room-runtime:2.2.5] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+103
+104        <provider
+104-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+105            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+105-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+106            android:authorities="com.netease.music.lifecycle-process"
+106-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+107            android:exported="false"
+107-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+108            android:multiprocess="true" />
+108-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\zshit\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+109    </application>
+110
+111</manifest>

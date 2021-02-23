@@ -1,0 +1,1062 @@
+[
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_down_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_down_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_search_result.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_search_result.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_normal_loading.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_normal_loading.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gray_border.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_gray_border.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_timer.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_timer.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_loading_more.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_loading_more.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_add_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_comment_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_gedan_detail_comment.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_gedan_detail_comment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_add_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_mv_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_mv_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_radio_pay.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_radio_pay.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_relay.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_relay.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_home.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_home.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_radio_rank.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_radio_rank.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_discover_album.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_discover_album.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_progress.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_progress.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_diff_none.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_diff_none.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_t_actionbar_video_selected.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\t_actionbar_video_selected.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_more_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_more_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_03.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\loading_03.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_musician.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_musician.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_radio_subscribed.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\border_radio_subscribed.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_video_play.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_video_play.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_singer_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_singer_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_share_song.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_share_song.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_01.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\loading_01.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_radio_sort.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_radio_sort.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_comment.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_comment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_comment_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_comment_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\anim_toolbar_slide_in.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\anim\\toolbar_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_female.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_female.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_left_arrow_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_left_arrow_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_t_actionbar_video_normal.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\t_actionbar_video_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mine_gedan_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_mine_gedan_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_top_china.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\top_china.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_48dp.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_search_black_48dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_video.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_home_video.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_childmode.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_childmode.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_parise_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_parise_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_download_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_download_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_04.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\loading_04.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_radio_recommend.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_radio_recommend.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_discover_gedan.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_discover_gedan.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_player.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_player.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_right_arrow_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_right_arrow_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_note_btn_play_ms.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\note_btn_play_ms.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_gedan_detail_song.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_gedan_detail_song.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_comment_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_comment_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_banner.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_banner.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_play_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_play_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_item_spec.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_item_spec.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_mv_detail.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_mv_detail.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next_dark.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_next_dark.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_notification_msg_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_notification_msg_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_yellow_star.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_yellow_star.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_selector_white.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bar_selector_white.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_round_red_14dp.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_round_red_14dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_animation.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\anim_h_fragment_pop_enter.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\anim\\h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_music_note_black_48dp.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_music_note_black_48dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_radio_calss.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_radio_calss.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\anim_h_fragment_exit.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\anim\\h_fragment_exit.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mine_gedan_content.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_mine_gedan_content.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_discover_gedan.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_discover_gedan.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_music_load_framelayout.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_music_load_framelayout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_search_suggest.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_search_suggest.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_play_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_play_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_album_default.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\bg_album_default.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_library.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\adapter_library.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_listen_regeconize.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_listen_regeconize.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_shop.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_info_playlist_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_user_info_playlist_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_perform.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_perform.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_runfm.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_runfm.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_red_hollow.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_round_red_hollow.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_top_song.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_top_song.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_album_attach.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_album_attach.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_category.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_category.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_left_arrow_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_left_arrow_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_rank.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_rank.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_collect_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_collect_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_first.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_first.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_comment_like.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_comment_like.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_left_arrow_white1.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_left_arrow_white1.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_song_more.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_song_more.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_note_btn_play_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\note_btn_play_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_comment_white.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\shape_comment_white.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_my_collection.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_my_collection.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_search_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_view.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\splash_view.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_download_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_radio_info.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_radio_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rank_up.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_rank_up.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_acg.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_acg.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_daily.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_daily.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_position.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_position.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_loading.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\list_loading.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_sixin.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_sixin.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_shutdown.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_shutdown.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_video_playtime.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_video_playtime.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dialog_corner_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_dialog_corner_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify_player_small.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\notify_player_small.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_friend.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_friend.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_user_info.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_user_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_vip.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_vip.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_discover.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_discover.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_album_attach_top.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_album_attach_top.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_check_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_notify_player_big.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\notify_player_big.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_radio_deatail.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_radio_deatail.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_new_album.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_new_album.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_check.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_more_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_more_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_suggest.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\header_suggest.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_mine.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_mine.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\anim_h_fragment_enter.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\anim\\h_fragment_enter.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fragmentation_ic_right.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxxhdpi\\fragmentation_ic_right.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification_friend.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_notification_friend.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_female.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_female.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_mike.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_mike.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_time_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort_time_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_comment_event.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_comment_event.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_followed.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_followed.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_drawer.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\navigation\\nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_circle_red.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_circle_red.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dialog_more.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_dialog_more.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_music.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_music_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_music_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_main.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\navigation\\nav_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_setting.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_scan_music.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_scan_music.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_artist_sort.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_artist_sort.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_play.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_recent_play.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_recent_play.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_collected.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_collected.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_splash.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_top_japan.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\top_japan.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_panel_back.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_panel_back.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_splash.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_splash.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_mine_radio.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_mine_radio.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_more_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_xiaoice.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_xiaoice.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_user_detail_followed.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_user_detail_followed.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_song_sq.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_song_sq.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_carplay.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_carplay.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_third.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_third.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_discount.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_number.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort_number.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_status_play.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_status_play.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_cloud.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_cloud.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_gedan_comment_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_gedan_comment_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_event.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_user_event.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_user_detail.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_user_detail.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rank_down.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_rank_down.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_radio_program.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_radio_program.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_test.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_test.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_six.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_six.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_top_europe.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\top_europe.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_video_detail.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_video_detail.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_drawer.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\fragment_drawer.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hot_play.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_hot_play.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_free_flow.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_free_flow.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_mv_sort.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_mv_sort.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_night.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_night.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_sun.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_sun.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_red.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_round_red.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_look.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_look.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_more_info.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_more_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_listen_rank.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_listen_rank.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round_white.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_round_white.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_menu_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_song_play_num.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_song_play_num.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_left_gedan.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_left_gedan.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_mine_fm.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_mine_fm.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_add_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_add_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_top_korea.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\top_korea.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mv_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_mv_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar_color.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\progressbar_color.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_top_recommend.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\top_recommend.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_album_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort_album_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_song_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort_song_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_app_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_app_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lyric.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_lyric.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_singer.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_singer.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_gedan_detail_comment.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_gedan_detail_comment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_folder.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_song_list_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_song_list_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_previous_dark.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xxhdpi\\ic_previous_dark.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_discover_album_song.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_discover_album_song.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_songinfo.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_songinfo.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_home_login.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_home_login.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_share_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_share_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_my_radio.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_my_radio.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_radio_hot_comment.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_radio_hot_comment.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_radio_program_header.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_radio_program_header.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_time_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_play_time_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_home_experience.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_home_experience.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_upload_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_upload_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dailyrecommend.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\bg_dailyrecommend.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lingsheng.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_lingsheng.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_comment_unlike.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\shape_comment_unlike.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_watch_view.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_watch_view.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_gedan_detail.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_gedan_detail.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_change_skin.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_change_skin.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_video_tab.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_video_tab.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_white.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_share_white.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_daily_recommend.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_daily_recommend.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_recyclerview_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_recyclerview_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_artist_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort_artist_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_up_black.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_up_black.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_new_gedan.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_new_gedan.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_message_red.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_message_red.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_classical.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_classical.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_sati.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_sati.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rank_hot.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_rank_hot.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_radio.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_radio.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_black_48dp.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_menu_black_48dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_right_arrow_gray.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_right_arrow_gray.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_collect.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_collect.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_second.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_second.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_next_song.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_next_song.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ranklist_fifth.jpg.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xxhdpi\\ranklist_fifth.jpg"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_alarm.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_alarm.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\anim_h_fragment_pop_exit.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\anim\\h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_user_cloud.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_user_cloud.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_02.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\loading_02.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_radio.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_radio.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_mobile_loggin.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_mobile_loggin.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_male.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_male.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\shape_male.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_radio_boutique.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_radio_boutique.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_playlist.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_playlist.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mine_radio_content.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_mine_radio_content.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\ic_sort.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_phone_login.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_phone_login.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_delegate_message_tab.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\delegate_message_tab.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_black_rect.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\bg_black_rect.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_parise.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_parise.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t_dragonball_icn_fm.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable\\t_dragonball_icn_fm.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_scan.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_radio_pay_normal.xml.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\layout\\item_radio_pay_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_official.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_radio_play_num.png.flat",
+        "source": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\src\\main\\res\\drawable-v24\\ic_radio_play_num.png"
+    }
+]

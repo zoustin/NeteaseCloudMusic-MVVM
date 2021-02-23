@@ -6,6 +6,7 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 
 import com.bigkoo.convenientbanner.listener.OnItemClickListener;
+import com.netease.lib_api.model.album.AlbumOrSongBean;
 import com.netease.lib_api.model.banner.BannerBean;
 import com.netease.lib_api.model.song.AudioBean;
 import com.kunminx.architecture.ui.page.BaseFragment;
@@ -23,6 +24,7 @@ import com.netease.music.ui.page.discover.square.detail.SongListDetailActivity;
 import com.netease.music.ui.state.DiscoverViewModel;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class DiscoverFragment extends BaseFragment {
 
@@ -109,11 +111,17 @@ public class DiscoverFragment extends BaseFragment {
             if (mDiscoverViewModel.type.get().getValue() == TYPE.ALBUM.getValue()) {
                 //切换到新歌
                 mDiscoverViewModel.type.set(TYPE.SONG);
-                mDiscoverViewModel.currentAlbumOrSongLiveData.set(mDiscoverViewModel.albumOrSongLiveData.get().subList(3, 6));
+                List<AlbumOrSongBean>  albumOrSongLiveData = mDiscoverViewModel.albumOrSongLiveData.get();
+                if ( albumOrSongLiveData != null){
+                    mDiscoverViewModel.currentAlbumOrSongLiveData.set(albumOrSongLiveData.subList(3, 6));
+                }
             } else {
                 //切换到新碟
                 mDiscoverViewModel.type.set(TYPE.ALBUM);
-                mDiscoverViewModel.currentAlbumOrSongLiveData.set(mDiscoverViewModel.albumOrSongLiveData.get().subList(0, 3));
+                List<AlbumOrSongBean>  albumOrSongLiveData = mDiscoverViewModel.albumOrSongLiveData.get();
+                if (albumOrSongLiveData != null){
+                    mDiscoverViewModel.currentAlbumOrSongLiveData.set(albumOrSongLiveData.subList(0, 3));
+                }
             }
         }
 

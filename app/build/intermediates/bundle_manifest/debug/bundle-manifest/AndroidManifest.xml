@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.netease.music"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- 在 屏幕最顶部显示addview -->
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+
+    <application
+        android:name="com.netease.music.App"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.netease.music.MainActivity" />
+        <activity android:name="com.netease.music.ui.page.login.PhoneLoginActivity" />
+        <activity android:name="com.netease.music.ui.page.login.LoginActivity" />
+        <activity android:name="com.netease.music.ui.page.drawer.CloudMusicActivity" />
+        <activity android:name="com.netease.music.ui.page.drawer.MessageTabActivity" />
+        <activity android:name="com.netease.music.ui.page.search.SearchActivity" />
+        <activity android:name="com.netease.music.ui.page.search.SearchResultActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.square.detail.SongListDetailActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.album.NewAlbumActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.daily.DailyRecommendActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.radio.RadioActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.radio.RadioPayActivity" />
+        <activity android:name="com.netease.music.ui.page.audio.MusicPlayerActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.square.detail.CommentActivity" />
+        <activity android:name="com.netease.music.ui.page.video.VideoDetailActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.radio.RadioDetailActivity" />
+        <activity android:name="com.netease.music.ui.page.discover.user.UserDetailActivity" />
+        <activity android:name="com.netease.music.ui.page.video.mv.MvSortActivity" />
+        <activity android:name="com.netease.music.ui.page.search.artist.ArtistSortActivity" />
+        <activity android:name="com.netease.music.ui.page.mine.radio.MyRadioActivity" />
+        <activity android:name="com.netease.music.ui.page.video.mv.MvDetailActivity" />
+        <!-- 闪屏界面作为应用的入口 -->
+        <activity android:name="com.netease.music.ui.page.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.netease.music.service.MusicService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.netease.music.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="android.notch_support"
+            android:value="true" /> <!-- PermissonActivity -->
+        <activity
+            android:name="com.lxj.xpopup.util.XPermission$PermissionActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/EasyPermissions.Transparent" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.netease.music.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

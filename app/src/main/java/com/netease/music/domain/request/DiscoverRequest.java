@@ -129,23 +129,25 @@ public class DiscoverRequest extends BaseRequest {
         Disposable subscribe = Observable.zip(albumObservable, newSongObservable, (resultBean, newSongBean) -> {
             final List<AlbumOrSongBean> data = new ArrayList<>();
             List<AlbumSearchBean.ResultBean.AlbumsBean> albums = resultBean.getAlbums();
-            if (albums.size() >= 3) {
-                for (int i = 0; i < 3; i++) {
-                    String artistName = albums.get(i).getArtist().getName();
-                    String albumName = albums.get(i).getName();
-                    String picUrl = albums.get(i).getPicUrl();
-                    long id = albums.get(i).getId();
-                    data.add(new AlbumOrSongBean(String.valueOf(id), TYPE.ALBUM_ID, picUrl, albumName, artistName));
+            if (albums != null) {
+                if (albums.size() >= 3) {
+                    for (int i = 0; i < 3; i++) {
+                        String artistName = albums.get(i).getArtist().getName();
+                        String albumName = albums.get(i).getName();
+                        String picUrl = albums.get(i).getPicUrl();
+                        long id = albums.get(i).getId();
+                        data.add(new AlbumOrSongBean(String.valueOf(id), TYPE.ALBUM_ID, picUrl, albumName, artistName));
+                    }
                 }
-            }
-            final List<DailyRecommendBean.RecommendBean> song = newSongBean.getData();
-            if (song.size() >= 3) {
-                for (int i = 0; i < 3; i++) {
-                    String artistName = song.get(i).getArtists().get(0).getName();
-                    String albumName = song.get(i).getName();
-                    String picUrl = song.get(i).getAlbum().getPicUrl();
-                    long id = song.get(i).getId();
-                    data.add(new AlbumOrSongBean(String.valueOf(id), TYPE.SONG_ID, picUrl, albumName, artistName));
+                final List<DailyRecommendBean.RecommendBean> song = newSongBean.getData();
+                if (song.size() >= 3) {
+                    for (int i = 0; i < 3; i++) {
+                        String artistName = song.get(i).getArtists().get(0).getName();
+                        String albumName = song.get(i).getName();
+                        String picUrl = song.get(i).getAlbum().getPicUrl();
+                        long id = song.get(i).getId();
+                        data.add(new AlbumOrSongBean(String.valueOf(id), TYPE.SONG_ID, picUrl, albumName, artistName));
+                    }
                 }
             }
             return data;

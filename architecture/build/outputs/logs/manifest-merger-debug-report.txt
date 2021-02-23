@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:18:5-39
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:23:5-35:19
+provider#androidx.core.content.FileProvider
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:27:13-64
+	android:exported
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:26:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:30:13-32:54
+	android:resource
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:32:17-51
+	android:name
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml:31:17-67
+uses-sdk
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\NeteaseCloudMusic-MVVM\architecture\src\main\AndroidManifest.xml

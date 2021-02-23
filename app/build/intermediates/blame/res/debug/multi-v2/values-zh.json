@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\Project\\NeteaseCloudMusic-MVVM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zshit\\.gradle\\caches\\transforms-2\\files-2.1\\080e47589cf3fb09b621f0b2b8852608\\jetified-refresh-layout-kernel-2.0.1\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,163",
+                        "endColumns": "107,91",
+                        "endOffsets": "158,250"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "185,293",
+                        "endColumns": "107,91",
+                        "endOffsets": "288,380"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zshit\\.gradle\\caches\\transforms-2\\files-2.1\\c5636aa842ffef682ecd7c1e649e1b48\\jetified-refresh-footer-classics-2.0.1\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,157,210,265,319,379",
+                        "endColumns": "50,50,52,54,53,59,53",
+                        "endOffsets": "101,152,205,260,314,374,428"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "385,436,487,540,595,649,709",
+                        "endColumns": "50,50,52,54,53,59,53",
+                        "endOffsets": "431,482,535,590,644,704,758"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zshit\\.gradle\\caches\\transforms-2\\files-2.1\\44b5c8b7d3aa2c58c025b7037222f82e\\jetified-refresh-header-classics-2.0.1\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,157,214,268,324,378,434",
+                        "endColumns": "50,50,56,53,55,53,55,60",
+                        "endOffsets": "101,152,209,263,319,373,429,490"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "763,814,865,922,976,1032,1086,1142",
+                        "endColumns": "50,50,56,53,55,53,55,60",
+                        "endOffsets": "809,860,917,971,1027,1081,1137,1198"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zshit\\.gradle\\caches\\transforms-2\\files-2.1\\51d5088383cbb9e66ae88a4669f2e85a\\jetified-jiaozivideoplayer-7.2.4\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,147,185,249,303,358",
+                        "endColumns": "49,41,37,63,53,54,55",
+                        "endOffsets": "100,142,180,244,298,353,409"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,147,1203,1267,1321,1376",
+                        "endColumns": "49,41,37,63,53,54,55",
+                        "endOffsets": "100,142,180,1262,1316,1371,1427"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zshit\\.gradle\\caches\\transforms-2\\files-2.1\\48be8f95455ca45f7eb3b795596a126a\\jetified-xpopup-2.0.8-rc5\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,141",
+                        "endColumns": "44,40,42",
+                        "endOffsets": "95,136,179"
+                    },
+                    "to": {
+                        "startLines": "26,27,28",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1432,1477,1518",
+                        "endColumns": "44,40,42",
+                        "endOffsets": "1472,1513,1556"
+                    }
+                }
+            ]
+        }
+    ]
+}

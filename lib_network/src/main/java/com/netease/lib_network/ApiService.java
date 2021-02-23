@@ -72,7 +72,7 @@ import retrofit2.http.Query;
 
 public interface ApiService {
 
-    String BASE_URL = "http://62.234.57.125:3000/";
+    String BASE_URL = "http://139.9.58.224:3000/";
 
     @GET("login/cellphone")
     Observable<LoginBean> login(@Query("phone") String phone, @Query("password") String password);
