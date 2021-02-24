@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d07ec5363cc2fbf3e7c4de926c7d31b/jetified-convenientbanner-2.0.5/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d07ec5363cc2fbf3e7c4de926c7d31b/jetified-convenientbanner-2.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a6e47026ec6aaa4c0127ce63d67adf0/jetified-convenientbanner-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a6e47026ec6aaa4c0127ce63d67adf0/jetified-convenientbanner-2.0.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a6e47026ec6aaa4c0127ce63d67adf0/jetified-convenientbanner-2.0.5/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bigkoo/convenientbanner/2.0.5/cbcb35e0aabdd9e8452c6f5ae17c5cb09d5473e2/convenientbanner-2.0.5-javadoc.jar!/" />
