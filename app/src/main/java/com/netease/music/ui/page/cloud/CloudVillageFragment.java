@@ -8,6 +8,7 @@ import androidx.annotation.Nullable;
 
 import com.kunminx.architecture.ui.page.BaseFragment;
 import com.kunminx.architecture.ui.page.DataBindingConfig;
+import com.netease.lib_api.model.user.UserEventBean;
 import com.netease.music.BR;
 import com.netease.music.R;
 import com.netease.music.ui.state.CloudVillageFragmentViewModel;
@@ -15,6 +16,9 @@ import com.scwang.smart.refresh.layout.api.RefreshLayout;
 import com.scwang.smart.refresh.layout.listener.OnLoadMoreListener;
 import com.scwang.smart.refresh.layout.listener.OnRefreshListener;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import io.reactivex.Observable;
@@ -43,8 +47,8 @@ public class CloudVillageFragment extends BaseFragment implements OnRefreshListe
         super.onCreate(savedInstanceState);
 
         mViewModel.eventRequest.getEventLiveData().observe(this, mainEventBean -> {
-
-            mViewModel.adapter.set(new EventAdapter(getContext(), mainEventBean.getEvent()));
+            //移除无用的数据
+            mViewModel.adapter.set(new EventAdapter(getContext(), removeInvalidData(mainEventBean.getEvent())));
             //停止显示加载动画
             mViewModel.loadingVisible.set(false);
         });
@@ -70,5 +74,20 @@ public class CloudVillageFragment extends BaseFragment implements OnRefreshListe
     public void onRefresh(@NonNull RefreshLayout refreshLayout) {
         Observable.timer(2, TimeUnit.SECONDS)
                 .subscribe(aLong -> mViewModel.reloadState.set(true));
+    }
+
+    private List<UserEventBean.EventsBean> removeInvalidData(List<UserEventBean.EventsBean> data) {
+        List<UserEventBean.EventsBean> newD = data;
+        if (data == null) {
+            return newD = new ArrayList<>();
+        }
+        Iterator<UserEventBean.EventsBean> it = newD.iterator();
+        while (it.hasNext()) {
+            UserEventBean.EventsBean bean = it.next();
+            if (bean.getUser().getUserId() == 0) {
+                it.remove();
+            }
+        }
+        return newD;
     }
 }
