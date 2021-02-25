@@ -163,6 +163,8 @@ public class CommonBindingAdapter {
                 .setPageTransformer(new DefaultTransformer())
                 .setOnItemClickListener(listener)
                 .setCanLoop(true);
+        //开启自动翻页
+        convenientBanner.startTurning(5000);
     }
 
     @BindingAdapter(value = "onChooseAreaListener")

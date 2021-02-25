@@ -2,9 +2,11 @@ package com.netease.music.ui.page.discover;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 
 import androidx.annotation.Nullable;
 
+import com.bigkoo.convenientbanner.ConvenientBanner;
 import com.bigkoo.convenientbanner.listener.OnItemClickListener;
 import com.netease.lib_api.model.album.AlbumOrSongBean;
 import com.netease.lib_api.model.banner.BannerBean;
@@ -26,9 +28,13 @@ import com.netease.music.ui.state.DiscoverViewModel;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 发现页 Fragment
+ */
 public class DiscoverFragment extends BaseFragment {
 
 
+    private final String TAG = DiscoverFragment.class.getName();
     private DiscoverViewModel mDiscoverViewModel;
 
 
@@ -50,6 +56,7 @@ public class DiscoverFragment extends BaseFragment {
         super.onCreate(savedInstanceState);
 
         mDiscoverViewModel.discoverRequest.getBannerLiveData().observe(this, bannerBean -> {
+            Log.i(TAG,bannerBean.toString());
             mDiscoverViewModel.banners.set(bannerBean.getBanners());
             final ArrayList<String> bannerPic = new ArrayList<>();
             for (BannerBean.BannersBean item : bannerBean.getBanners()) {
@@ -60,12 +67,14 @@ public class DiscoverFragment extends BaseFragment {
 
         //推荐歌单数据
         mDiscoverViewModel.discoverRequest.getRecommendPlaylistLiveData().observe(this, recommendBeans -> {
+            Log.i(TAG,recommendBeans.toString());
             final RecommendPlayListAdapter playListAdapter = new RecommendPlayListAdapter(getContext());
             playListAdapter.submitList(recommendBeans);
             mDiscoverViewModel.playListAdapter.set(playListAdapter);
         });
         //新歌和新碟的数据 新碟在前三个 新歌在后三个
         mDiscoverViewModel.discoverRequest.getAlbumOrSongLiveData().observe(this, albumOrSongBeans -> {
+            Log.i(TAG,albumOrSongBeans.toString());
             //获取全部的数据
             mDiscoverViewModel.albumOrSongLiveData.set(albumOrSongBeans);
             //前三位是新碟的数据

@@ -93,7 +93,8 @@ public class DiscoverRequest extends BaseRequest {
 
 
     public void requestRecommendPlaylistData() {
-        ApiEngine.getInstance().getApiService().getRecommendPlayList()
+        ApiEngine.getInstance().getApiService()
+                .getRecommendPlayList()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Observer<MainRecommendPlayListBean>() {
@@ -123,9 +124,13 @@ public class DiscoverRequest extends BaseRequest {
 
     public void requestAlbumAndSongData() {
         //新碟上架
-        Observable<AlbumSearchBean.ResultBean> albumObservable = ApiEngine.getInstance().getApiService().getTopAlbum(3).subscribeOn(Schedulers.io());
+        Observable<AlbumSearchBean.ResultBean> albumObservable = ApiEngine.getInstance().getApiService()
+                .getTopAlbum(3)
+                .subscribeOn(Schedulers.io());
         //新歌速递
-        Observable<NewSongBean> newSongObservable = ApiEngine.getInstance().getApiService().getTopSong(0).subscribeOn(Schedulers.io());
+        Observable<NewSongBean> newSongObservable = ApiEngine.getInstance().getApiService()
+                .getTopSong(0)
+                .subscribeOn(Schedulers.io());
         Disposable subscribe = Observable.zip(albumObservable, newSongObservable, (resultBean, newSongBean) -> {
             final List<AlbumOrSongBean> data = new ArrayList<>();
             List<AlbumSearchBean.ResultBean.AlbumsBean> albums = resultBean.getAlbums();
