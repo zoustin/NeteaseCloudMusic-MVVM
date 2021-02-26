@@ -85,7 +85,7 @@ public class DiscoverFragment extends BaseFragment {
         //请求Banner数据
         mDiscoverViewModel.discoverRequest.requestBannerData();
         //请求歌单数据
-        mDiscoverViewModel.discoverRequest.requestRecommendPlaylistData();
+        mDiscoverViewModel.discoverRequest.requestMainRecommendPlayListData(6);
         //请求新碟上架和新歌速递数据
         mDiscoverViewModel.discoverRequest.requestAlbumAndSongData();
 

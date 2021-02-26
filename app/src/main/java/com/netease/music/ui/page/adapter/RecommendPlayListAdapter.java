@@ -4,14 +4,15 @@ import android.content.Context;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.netease.lib_api.model.playlist.MainRecommendPlayListBean;
+import com.netease.lib_api.model.playlist.DailyRecommendPlayListBean;
 import com.kunminx.architecture.ui.adapter.SimpleDataBindingAdapter;
+import com.netease.lib_api.model.playlist.MainRecommendPlayListBean;
 import com.netease.music.R;
 import com.netease.music.data.config.TYPE;
 import com.netease.music.databinding.ItemDiscoverGedanBinding;
 import com.netease.music.ui.page.discover.square.detail.SongListDetailActivity;
 
-public class RecommendPlayListAdapter extends SimpleDataBindingAdapter<MainRecommendPlayListBean.RecommendBean, ItemDiscoverGedanBinding> {
+public class RecommendPlayListAdapter extends SimpleDataBindingAdapter<MainRecommendPlayListBean.ResultBean, ItemDiscoverGedanBinding> {
 
 
     public RecommendPlayListAdapter(Context context) {
@@ -20,7 +21,7 @@ public class RecommendPlayListAdapter extends SimpleDataBindingAdapter<MainRecom
     }
 
     @Override
-    protected void onBindItem(ItemDiscoverGedanBinding binding, MainRecommendPlayListBean.RecommendBean item, RecyclerView.ViewHolder holder) {
+    protected void onBindItem(ItemDiscoverGedanBinding binding, MainRecommendPlayListBean.ResultBean item, RecyclerView.ViewHolder holder) {
         binding.setItem(item);
     }
 }

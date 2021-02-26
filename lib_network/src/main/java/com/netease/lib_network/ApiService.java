@@ -29,6 +29,7 @@ import com.netease.lib_api.model.notification.CommonMessageBean;
 import com.netease.lib_api.model.notification.UserCloudBean;
 import com.netease.lib_api.model.playlist.CatlistBean;
 import com.netease.lib_api.model.playlist.DailyRecommendBean;
+import com.netease.lib_api.model.playlist.DailyRecommendPlayListBean;
 import com.netease.lib_api.model.playlist.HighQualityPlayListBean;
 import com.netease.lib_api.model.playlist.MainRecommendPlayListBean;
 import com.netease.lib_api.model.playlist.MyFmBean;
@@ -68,6 +69,7 @@ import com.netease.lib_api.model.user.UserPlaylistBean;
 
 import io.reactivex.Observable;
 import retrofit2.http.GET;
+import retrofit2.http.POST;
 import retrofit2.http.Query;
 
 public interface ApiService {
@@ -114,7 +116,10 @@ public interface ApiService {
     Observable<DjBannerBean> getRadioBanner();
 
     @GET("recommend/resource")
-    Observable<MainRecommendPlayListBean> getRecommendPlayList();
+    Observable<DailyRecommendPlayListBean> getRecommendPlayList();
+
+    @GET("personalized")
+    Observable<MainRecommendPlayListBean> getMainRecommendPlayList(@Query("limit") int limit);
 
     @GET("recommend/songs")
     Observable<DailyRecommendBean> getDailyRecommend();

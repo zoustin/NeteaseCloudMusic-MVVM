@@ -1,11 +1,14 @@
 package com.netease.music.domain.request;
 
+import android.util.Log;
+
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
 import com.netease.lib_api.model.album.AlbumOrSongBean;
 import com.netease.lib_api.model.banner.BannerBean;
 import com.netease.lib_api.model.playlist.DailyRecommendBean;
+import com.netease.lib_api.model.playlist.DailyRecommendPlayListBean;
 import com.netease.lib_api.model.playlist.MainRecommendPlayListBean;
 import com.netease.lib_api.model.search.AlbumSearchBean;
 import com.netease.lib_api.model.song.NewSongBean;
@@ -21,15 +24,15 @@ import io.reactivex.Observable;
 import io.reactivex.Observer;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
-import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 public class DiscoverRequest extends BaseRequest {
 
+    private final String TAG  = DiscoverRequest.class.getName();
     //Banner数据
     private MutableLiveData<BannerBean> mBannerLiveData;
     //推荐歌曲数据
-    private MutableLiveData<List<MainRecommendPlayListBean.RecommendBean>> mRecommendPlayListLiveData;
+    private MutableLiveData<List<MainRecommendPlayListBean.ResultBean>> mRecommendPlayListLiveData;
     //歌曲详情
     private MutableLiveData<SongDetailBean.SongsBean> mSongDetailLiveData;
 
@@ -50,7 +53,7 @@ public class DiscoverRequest extends BaseRequest {
         return mBannerLiveData;
     }
 
-    public LiveData<List<MainRecommendPlayListBean.RecommendBean>> getRecommendPlaylistLiveData() {
+    public LiveData<List<MainRecommendPlayListBean.ResultBean>> getRecommendPlaylistLiveData() {
         if (mRecommendPlayListLiveData == null) {
             mRecommendPlayListLiveData = new MutableLiveData<>();
         }
@@ -97,26 +100,39 @@ public class DiscoverRequest extends BaseRequest {
                 .getRecommendPlayList()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(new Observer<MainRecommendPlayListBean>() {
+                .subscribe();
+    }
+
+    public void requestMainRecommendPlayListData(int limit){
+        ApiEngine.getInstance().getApiService()
+                .getMainRecommendPlayList(limit)
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new Observer<MainRecommendPlayListBean>(){
+
                     @Override
                     public void onSubscribe(Disposable d) {
+                        Log.i(TAG,"onSubscribe");
 
                     }
 
                     @Override
-                    public void onNext(MainRecommendPlayListBean bannerBean) {
-                        if (bannerBean.getCode() == 200 && bannerBean.getRecommend().size() >= 6) {
-                            mRecommendPlayListLiveData.postValue(bannerBean.getRecommend().subList(0, 6));
+                    public void onNext(MainRecommendPlayListBean mainRecommendPlayListBean) {
+                        if (mainRecommendPlayListBean.getCode() == 200 && mainRecommendPlayListBean.getResult().size() >= 6) {
+                            //请求到数据，写入到liveData
+                            mRecommendPlayListLiveData.postValue(mainRecommendPlayListBean.getResult());
                         }
                     }
 
                     @Override
                     public void onError(Throwable e) {
+                        Log.i(TAG,"onError");
 
                     }
 
                     @Override
                     public void onComplete() {
+                        Log.i(TAG,"onComplete");
 
                     }
                 });

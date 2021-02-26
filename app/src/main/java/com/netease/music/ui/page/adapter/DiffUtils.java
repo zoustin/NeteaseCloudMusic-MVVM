@@ -20,6 +20,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 
 import com.netease.lib_api.model.album.AlbumOrSongBean;
+import com.netease.lib_api.model.playlist.DailyRecommendPlayListBean;
 import com.netease.lib_api.model.playlist.MainRecommendPlayListBean;
 import com.netease.music.data.bean.LibraryInfo;
 
@@ -28,7 +29,7 @@ public class DiffUtils {
     private DiffUtil.ItemCallback<LibraryInfo> mLibraryInfoItemCallback;
 
 
-    private DiffUtil.ItemCallback<MainRecommendPlayListBean.RecommendBean> mRecommendPlaylistItemCallback;
+    private DiffUtil.ItemCallback<MainRecommendPlayListBean.ResultBean> mRecommendPlaylistItemCallback;
 
     private DiffUtil.ItemCallback<AlbumOrSongBean> mAlbumOrSongItemCallback;
 
@@ -59,16 +60,18 @@ public class DiffUtils {
     }
 
 
-    public DiffUtil.ItemCallback<MainRecommendPlayListBean.RecommendBean> getRecommendPlayListItemCallback() {
+    public DiffUtil.ItemCallback<MainRecommendPlayListBean.ResultBean> getRecommendPlayListItemCallback() {
         if (mRecommendPlaylistItemCallback == null) {
-            mRecommendPlaylistItemCallback = new DiffUtil.ItemCallback<MainRecommendPlayListBean.RecommendBean>() {
+            mRecommendPlaylistItemCallback = new DiffUtil.ItemCallback<MainRecommendPlayListBean.ResultBean>() {
+
+
                 @Override
-                public boolean areItemsTheSame(@NonNull MainRecommendPlayListBean.RecommendBean oldItem, @NonNull MainRecommendPlayListBean.RecommendBean newItem) {
+                public boolean areItemsTheSame(@NonNull MainRecommendPlayListBean.ResultBean oldItem, @NonNull MainRecommendPlayListBean.ResultBean newItem) {
                     return oldItem.equals(newItem);
                 }
 
                 @Override
-                public boolean areContentsTheSame(@NonNull MainRecommendPlayListBean.RecommendBean oldItem, @NonNull MainRecommendPlayListBean.RecommendBean newItem) {
+                public boolean areContentsTheSame(@NonNull MainRecommendPlayListBean.ResultBean oldItem, @NonNull MainRecommendPlayListBean.ResultBean newItem) {
                     return oldItem.getId() == newItem.getId();
                 }
             };
